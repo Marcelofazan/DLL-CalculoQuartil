@@ -1,5 +1,5 @@
 ## 🛠️ Dll-Com32-CalculoQuartil
-Exemplo de criação de componente de calculo de Estatísticas e Cálculo do Quadro de Quartil DLL em CSharp para ser utilizado como componente em outras linguaguens de programação 32bits como componente (**COM/ActiveX**), 
+Exemplo de componente de calculo de Estatísticas e Cálculo do Quadro de Quartil DLL em CSharp para ser utilizado como componente em outras linguaguens de programação 32bits como componente (**COM/ActiveX**).
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
