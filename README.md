@@ -1,5 +1,5 @@
 ## 🛠️ Dll-Com32-CalculoQuartil
-Exemplo de componente DLL de calculo de Estatísticas e Cálculo do Quadro de Quartil em C# .NET para ser utilizado como componente COM.
+Componente DLL de calculo de Estatísticas e Cálculo do Quadro de Quartil em C# .NET para ser utilizado como componente COM.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
