@@ -9,7 +9,7 @@ Componente DLL de cálculo e estatísticas e quadro de quartil em C# .NET para s
 | **Json** |Serialização e desserialização utilizado nas linguaguens |
 | **COM** | Criação de Componente Objetos COM/ActiveX em .NET onde para ser usadas por outras linguaguens (rundll32), devem ter e serem criadas como ComVisible(true) e serem registradas para interoperação com registro (regasm.exe). |
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 A DLL deve ser registrada com o seguinte .BAT, necessário ajustar o diretório do arquivo BAT.
 ```bash
 @ECHO OFF
