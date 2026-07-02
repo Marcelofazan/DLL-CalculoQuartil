@@ -20,5 +20,5 @@ timeout /t 20
 EXIT
 ```
 
-#### Cálculo do Quartilo que é ?
+#### 💡 Cálculo do Quartilo que é ?
 Os quartis são medidas estatísticas que dividem um conjunto de dados ordenados (do menor para o maior) em quatro partes iguais, cada uma contendo 25% dos dados. Eles são fundamentais para entender a distribuição e a dispersão dos dados, indo além do que uma simples média pode mostrar.
